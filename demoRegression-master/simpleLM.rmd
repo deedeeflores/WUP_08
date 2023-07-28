@@ -74,7 +74,7 @@ summary.lm(simp)
 THE adjusted R SQUARE FOR WEIGHT IS 0.7423 
 
 ### Disscusion Conclusion 
-Considering the adjusted r square for all of these considering which is the adjusted r square is the best shown from the graphs above.Consulting head size opposed to the other is best 
+Considering the adjusted r square for all of these considering which is the adjusted r square is the best shown from the graphs above.Consulting head size opposed to the other is best  
 
   
 Age          .05073.       
@@ -91,5 +91,5 @@ Chest        .07869
 Head Length   0.8434
 
 
-
+In conclusion, the lowest R square, 0.5073 for the age, is the best model out of the 6.  
 
