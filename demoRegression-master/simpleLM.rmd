@@ -71,5 +71,25 @@ plot(LENGTH~WEIGHT,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
-THE R SQUARE FOR WEIGHT IS 0.7423 
+THE adjusted R SQUARE FOR WEIGHT IS 0.7423 
+
+### Disscusion Conclusion 
+Considering the adjusted r square for all of these considering which is the adjusted r square is the best shown from the graphs above.Consulting head size opposed to the other is best 
+
+  
+Age          .05073.       
+
+Headwith     .05321          
+
+Weight       .07423          
+
+Neck         .07476            
+
+Chest        .07869                
+
+
+Head Length   0.8434
+
+
+
 
