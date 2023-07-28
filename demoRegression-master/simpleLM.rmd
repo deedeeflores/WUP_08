@@ -95,4 +95,7 @@ Head Length   0.8434
 
 
 In conclusion, the highest R square,  0.8434 for the head lenght , making it the  best model out of the 6.  
+```{r}
+
+```
 
