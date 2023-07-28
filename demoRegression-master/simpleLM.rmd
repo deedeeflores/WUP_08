@@ -47,5 +47,12 @@ plot(LENGTH~HEADWTH,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
+the adjusted r square for HEADWTH is  0.5321 .
 
-
+```{r}
+simp <- lm(LENGTH~AGE,data=bears)
+plot(LENGTH~AGE,data=bears)
+abline(simp)
+summary.lm(simp)
+```
+the adjusted r square for AGE is 0.5073 
